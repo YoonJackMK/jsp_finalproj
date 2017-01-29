@@ -88,7 +88,7 @@ function mk_main_group() {
 
 <div id="mk_content">
 
-	<!-- 개인 -->
+	<!-- 개인   되나?????-->
 	<div id="mk_indiv">
 	
 		<div class="mk_indiv_in">
